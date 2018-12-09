@@ -1,0 +1,7 @@
+C:\Users\smeet\source\repos\mybank1\mybank1\bin\Debug\mybank1.exe.config
+C:\Users\smeet\source\repos\mybank1\mybank1\bin\Debug\mybank1.exe
+C:\Users\smeet\source\repos\mybank1\mybank1\bin\Debug\mybank1.pdb
+C:\Users\smeet\source\repos\mybank1\mybank1\obj\Debug\mybank1.csprojAssemblyReference.cache
+C:\Users\smeet\source\repos\mybank1\mybank1\obj\Debug\mybank1.csproj.CoreCompileInputs.cache
+C:\Users\smeet\source\repos\mybank1\mybank1\obj\Debug\mybank1.exe
+C:\Users\smeet\source\repos\mybank1\mybank1\obj\Debug\mybank1.pdb
